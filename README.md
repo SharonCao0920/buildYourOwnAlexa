@@ -19,7 +19,7 @@
 ## Part 4: Play .mp3 Audio File
 Audio played
 
-## Chanllanges
+## The Challenges
 Initially working on Ubuntu Windows 11 with WSL2 does not support audio and microphone. Tried on different systems to test run the project.
 
 **VirtualBox-Ubuntu 22.04**: 
