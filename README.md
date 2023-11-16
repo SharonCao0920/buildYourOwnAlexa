@@ -23,11 +23,14 @@ Audio played
 Initially working on Ubuntu Windows 11 with WSL2 does not support audio and microphone. Tried on different systems to test run the project.
 
 **VirtualBox-Ubuntu 22.04**: 
+
 Taking too much space of computer and slow down the computer.
 
 **Wondows 11**:  
+
 Works fine, but consider future project, prefer Linux.
 
 **Kali Linux**: 
+
 Worked fine, but not stable, sometimes not working.
 
